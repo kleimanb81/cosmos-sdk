@@ -13,7 +13,7 @@ require (
 	github.com/tendermint/tm-db v0.6.7
 	google.golang.org/protobuf v1.27.1
 	gotest.tools/v3 v3.1.0
-	pgregory.net/rapid v0.4.7
+	pgregory.net/rapid v0.5.3
 )
 
 require (
